@@ -1,0 +1,79 @@
+samsung fascinate
+
+
+intensity 2
+===========================
+
+this computer:
+
+IE8:
+	use recommended settings
+	installed flash without google toolbar
+	installed Silverlight
+
+Control Panel
+	Appearance
+		Windows 7 Aero Theme
+	Hardware
+		High Performance - longer keep screen
+System Properties - Advanced - Visual Effects - UNCHECK 2nd option: Animate Windows when min...
+
+Apple BootCamp
+	using function keys as normal
+
+
+Adjusted cleartype text
+Turn off higlight newly installed programs
+on Recycle Bin - turn off confirmation dialog
+
+IE - Security, Internet Zone, Custom Level, Misc, Display mixed content
+
+custom uac level
+
+
+Google Chrome
+Opera
+
+Gimp (experimental 64 bit)
+
+VLC
+QuickTime
+iTunes
+
+Komodo IDE - trial version
+
+Keytweak
+
+Synergy+ (run as admin)
+
+Quicktime
+
+Firefox
+	Font Appearance adjust
+	installed Bonjour at the same time
+
+all of cywin
+puttycyg
+1.local$ ssh-agent bash
+2.local$ ssh-add ~/.ssh/id_dsa - you will be prompted for your key's passphrase.
+
+Git
+	installed with cygwin
+	copy in .gitconfig
+Autohotkey
+	bring in my sourcefile from Github
+
+
+Office 2010
+	install only important updates
+
+Gem
+	got zip from website, just unzip, ruby setup.rb
+
+Rails 3
+
+VPN - follow NU instructions for Windows 7	
+
+E - downloaded trial version
+
+AltDrag	
