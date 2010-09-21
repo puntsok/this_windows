@@ -30,6 +30,7 @@ IE - Security, Internet Zone, Custom Level, Misc, Display mixed content
 
 custom uac level
 
+utorrent
 
 Google Chrome
 Opera
